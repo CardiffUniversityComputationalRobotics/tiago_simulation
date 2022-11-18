@@ -19,6 +19,4 @@
   <run_depend>rospy</run_depend>
   <run_depend>play_motion_msgs</run_depend>
   
-  <run_depend>python-is-python3</run_depend>
-
 </package>
